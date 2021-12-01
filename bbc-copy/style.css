@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.photo {
+    max-width:100%;
+}
+
+.main {
+    margin-left: auto;
+    margin-right: auto; 
+    padding: 16px 16px 0 16px;
+    max-width: 800px;
+}
+
+a {
+    color: #3F3F42;
+}
+
+.text {
+    font-size: large;
+    color: #000;
+}
